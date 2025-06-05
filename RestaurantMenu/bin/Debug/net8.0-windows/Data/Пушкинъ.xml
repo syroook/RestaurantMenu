@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BuildingDto>
+  <Name>Пушкинъ</Name>
+  <Type>Ресторан</Type>
+  <MainMenu Name="Основное меню">
+    <Dishes>
+      <Dish Name="Томленый говяжий щёчки" Price="1890.0" Type="MainDish" />
+      <Dish Name="Утиная грудка с вишневым соусом" Price="1650.0" Type="MainDish" />
+      <Dish Name="Тартар из говядины" Price="890.0" Type="Appetizer" />
+      <Dish Name="Вино Кьянти" Price="850.0" Type="Drink" />
+    </Dishes>
+  </MainMenu>
+  <SeasonalMenu Name="Зимнее меню">
+    <Dishes>
+      <Dish Name="Жаркое из оленины" Price="2100.0" Type="MainDish" />
+      <Dish Name="Глинтвейн домашний" Price="650.0" Type="Dessert" />
+    </Dishes>
+  </SeasonalMenu>
+</BuildingDto>

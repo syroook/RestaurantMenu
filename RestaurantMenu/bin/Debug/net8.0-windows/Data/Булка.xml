@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BuildingDto>
+  <Name>Булка</Name>
+  <Type>Кафе</Type>
+  <MainMenu Name="Основное меню">
+    <Dishes>
+      <Dish Name="Сырники с вареньем" Price="390.0" Type="Breakfast" />
+      <Dish Name="Авокадо-тост" Price="450.0" Type="Breakfast" />
+      <Dish Name="Круассан классический" Price="220.0" Type="Dessert" />
+      <Dish Name="Капучино" Price="280.0" Type="Drink" />
+      <Dish Name="test1" Price="1.0" Type="Appetizer" />
+      <Dish Name="test2" Price="2.0" Type="Appetizer" />
+      <Dish Name="test3" Price="1.0" Type="Appetizer" />
+      <Dish Name="тест" Price="1.0" Type="Appetizer" />
+    </Dishes>
+  </MainMenu>
+  <SeasonalMenu Name="Осеннее меню">
+    <Dishes>
+      <Dish Name="Тыквенный латте" Price="320.0" Type="Dessert" />
+      <Dish Name="Овсянка с ягодами" Price="350.0" Type="Breakfast" />
+    </Dishes>
+  </SeasonalMenu>
+</BuildingDto>

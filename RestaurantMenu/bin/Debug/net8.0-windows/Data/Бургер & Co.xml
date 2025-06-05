@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BuildingDto>
+  <Name>Бургер &amp; Co</Name>
+  <Type>Кафе</Type>
+  <MainMenu Name="Основное меню">
+    <Dishes>
+      <Dish Name="Чизбургер" Price="290.0" Type="MainDish" />
+      <Dish Name="Картофель фри" Price="190.0" Type="MainDish" />
+      <Dish Name="Кола" Price="150.0" Type="Drink" />
+      <Dish Name="Мороженое" Price="120.0" Type="Dessert" />
+    </Dishes>
+  </MainMenu>
+  <SeasonalMenu Name="Летнее меню">
+    <Dishes>
+      <Dish Name="Молочный коктейль" Price="220.0" Type="Drink" />
+      <Dish Name="Овощной салат" Price="180.0" Type="Salad" />
+    </Dishes>
+  </SeasonalMenu>
+</BuildingDto>

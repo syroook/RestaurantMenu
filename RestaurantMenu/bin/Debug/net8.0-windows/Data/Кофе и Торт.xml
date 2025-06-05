@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BuildingDto>
+  <Name>Кофе и Торт</Name>
+  <Type>Кофейня</Type>
+  <MainMenu Name="Кофейная карта">
+    <Dishes>
+      <Dish Name="Эспрессо" Price="180.0" Type="Drink" />
+      <Dish Name="Флэт Уайт" Price="250.0" Type="Drink" />
+      <Dish Name="Тирамису" Price="350.0" Type="Dessert" />
+      <Dish Name="Маффин шоколадный" Price="220.0" Type="Dessert" />
+    </Dishes>
+  </MainMenu>
+  <SeasonalMenu Name="Весеннее меню">
+    <Dishes>
+      <Dish Name="Кокосовый раф" Price="320.0" Type="Drink" />
+      <Dish Name="Клубничный чизкейк" Price="420.0" Type="Dessert" />
+    </Dishes>
+  </SeasonalMenu>
+</BuildingDto>

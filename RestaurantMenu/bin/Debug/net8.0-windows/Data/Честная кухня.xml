@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BuildingDto>
+  <Name>Честная кухня</Name>
+  <Type>Ресторан</Type>
+  <MainMenu Name="Основное меню">
+    <Dishes>
+      <Dish Name="Стейк Рибай" Price="1490.0" Type="MainDish" />
+      <Dish Name="Паста Карбонара" Price="790.0" Type="MainDish" />
+      <Dish Name="Цезарь с курицей" Price="590.0" Type="Salad" />
+      <Dish Name="Крафтовое пиво" Price="390.0" Type="Drink" />
+    </Dishes>
+  </MainMenu>
+  <SeasonalMenu Name="Летнее меню">
+    <Dishes>
+      <Dish Name="Теплый салат с креветками" Price="890.0" Type="Salad" />
+      <Dish Name="Лимонад домашний" Price="290.0" Type="Drink" />
+    </Dishes>
+  </SeasonalMenu>
+</BuildingDto>

@@ -1,0 +1,12 @@
+C:\Users\syrcd\source\repos\RestaurantMenu\Model\bin\Debug\net8.0\Model.deps.json
+C:\Users\syrcd\source\repos\RestaurantMenu\Model\bin\Debug\net8.0\Model.dll
+C:\Users\syrcd\source\repos\RestaurantMenu\Model\bin\Debug\net8.0\Model.pdb
+C:\Users\syrcd\source\repos\RestaurantMenu\Model\obj\Debug\net8.0\Model.csproj.AssemblyReference.cache
+C:\Users\syrcd\source\repos\RestaurantMenu\Model\obj\Debug\net8.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syrcd\source\repos\RestaurantMenu\Model\obj\Debug\net8.0\Model.AssemblyInfoInputs.cache
+C:\Users\syrcd\source\repos\RestaurantMenu\Model\obj\Debug\net8.0\Model.AssemblyInfo.cs
+C:\Users\syrcd\source\repos\RestaurantMenu\Model\obj\Debug\net8.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\syrcd\source\repos\RestaurantMenu\Model\obj\Debug\net8.0\Model.dll
+C:\Users\syrcd\source\repos\RestaurantMenu\Model\obj\Debug\net8.0\refint\Model.dll
+C:\Users\syrcd\source\repos\RestaurantMenu\Model\obj\Debug\net8.0\Model.pdb
+C:\Users\syrcd\source\repos\RestaurantMenu\Model\obj\Debug\net8.0\ref\Model.dll
